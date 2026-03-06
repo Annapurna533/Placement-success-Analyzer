@@ -1,27 +1,70 @@
-# Placement Success Analyzer
+\# 🎓 Placement Success Analyzer
 
-## Overview
-A Machine Learning project that predicts student placement probability based on academic performance, skill metrics, internship experience, and project work.
 
-## Features
-- Logistic Regression Model
-- Decision Tree Comparison
-- 6 Key Student Features
-- Probability Prediction
-- Feature Importance Analysis
-- Visualization Graphs
-- Real-time Input Prediction
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+A Machine Learning project that predicts whether a student will get placed based on academic performance and skills.
 
-## Accuracy
-Logistic Regression: ~92%
-Decision Tree: ~85%
 
-## Author
-Annapurna Reddy
+
+\## 🚀 Features
+
+\- Data preprocessing
+
+\- Model training using ML algorithms
+
+\- Accuracy evaluation
+
+\- Prediction system
+
+
+
+\## 🛠 Technologies Used
+
+\- Python
+
+\- Pandas
+
+\- NumPy
+
+\- Scikit-learn
+
+\- Matplotlib / Seaborn
+
+
+
+\## 📂 Project Structure
+
+Placement-success-Analyzer/
+
+│
+
+├── Placement\_success\_Analyzer.py
+
+├── README.md
+
+├── requirements.txt
+
+└── dataset.csv (if applicable)
+
+
+
+\## 📊 How It Works
+
+1\. Loads dataset
+
+2\. Cleans data
+
+3\. Trains ML model
+
+4\. Predicts placement outcome
+
+
+
+\## ▶ How to Run
+
+```bash
+
+pip install -r requirements.txt
+
+python Placement\_success\_Analyzer.py
+
